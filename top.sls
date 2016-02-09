@@ -1,3 +1,3 @@
 base:
-    'pendragon.gconfs.fr':
+    'merlin.gconfs.fr':
         - motd
